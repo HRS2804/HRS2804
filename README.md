@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Hannah
+- I'm currently interested in learning Data Analytics
